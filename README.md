@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto visa desmistificar oque é natural e oque não é.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chatgpt, Midjourney
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de "criação" de um físico Natural e de um Fake Natty (falso natural) difere fundamentalmente pelo uso ou não de substâncias ergogênicas farmacológicas, como os esteroides anabolizante
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Não se trata de um "projeto" com um resultado único e conclusivo, mas sim de uma série contínua de análises e discussões que geraram diversos resultados e desdobramentos na mídia e na internet.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
